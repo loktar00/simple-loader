@@ -2,6 +2,7 @@
     const styles = `
       .container {
           position: relative;
+          display: table;
       }
       svg {
            position: absolute;
